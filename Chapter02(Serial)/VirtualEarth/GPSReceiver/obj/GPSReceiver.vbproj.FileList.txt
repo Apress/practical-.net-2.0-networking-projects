@@ -1,0 +1,10 @@
+bin\Debug\GPSReceiver.exe
+bin\Debug\GPSReceiver.pdb
+bin\Debug\GPSReceiver.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GPSReceiver.Form1.resources
+obj\Debug\GPSReceiver.Resources.resources
+obj\Debug\GPSReceiver.vbproj.GenerateResource.Cache
+obj\Debug\GPSReceiver.exe
+obj\Debug\GPSReceiver.xml
+obj\Debug\GPSReceiver.pdb

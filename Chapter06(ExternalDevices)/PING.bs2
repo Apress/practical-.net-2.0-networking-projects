@@ -1,0 +1,39 @@
+' {$STAMP BS2}
+' {$PBASIC 2.5}
+
+'---duration of the trigger; 1 represents 2 micro-seconds---
+Trigger CON 1  '---CON represents constant---
+
+'---variable to measure the pulse---
+rawDist VAR Word  '---VAR represents variable---
+
+'---the I/O Pin connected to the PING))) sensor---
+Ping PIN 15  '---PIN represents pin on the BS2---
+
+DO
+   '---Set the pin to low first---
+   Ping = 0
+
+   '---trigger the sensor by sending a pulse ---
+   PULSOUT Ping, Trigger
+
+   '---measure the echo pulse by reading it---
+   PULSIN Ping, 1, rawDist
+
+   '---convert pulses to micro-seconds---
+   rawDist = rawDist * 2
+
+   '---get the single-trip timing---
+   rawDist = rawDist / 2
+
+   '---convert the distance to cm---
+   rawDist = rawDist /30
+
+   '---print out the distance in cm---
+   'DEBUG DEC rawDist, CR, LF
+   SEROUT 16, 16468, [DEC RawDist]
+   SEROUT 16, 16468, [LF]
+
+   '---delay for 100 milliseconds---
+   PAUSE 100
+LOOP

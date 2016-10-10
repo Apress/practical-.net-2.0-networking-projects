@@ -1,0 +1,10 @@
+bin\Debug\SecuritySystem.exe
+bin\Debug\SecuritySystem.pdb
+bin\Debug\SecuritySystem.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SecuritySystem.Form1.resources
+obj\Debug\SecuritySystem.Resources.resources
+obj\Debug\SecuritySystem.vbproj.GenerateResource.Cache
+obj\Debug\SecuritySystem.exe
+obj\Debug\SecuritySystem.xml
+obj\Debug\SecuritySystem.pdb

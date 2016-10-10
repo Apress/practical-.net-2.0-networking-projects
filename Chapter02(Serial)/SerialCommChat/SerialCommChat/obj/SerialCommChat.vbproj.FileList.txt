@@ -1,0 +1,10 @@
+bin\Debug\SerialCommChat.exe
+bin\Debug\SerialCommChat.pdb
+bin\Debug\SerialCommChat.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SerialCommChat.Form1.resources
+obj\Debug\SerialCommChat.Resources.resources
+obj\Debug\SerialCommChat.vbproj.GenerateResource.Cache
+obj\Debug\SerialCommChat.exe
+obj\Debug\SerialCommChat.xml
+obj\Debug\SerialCommChat.pdb

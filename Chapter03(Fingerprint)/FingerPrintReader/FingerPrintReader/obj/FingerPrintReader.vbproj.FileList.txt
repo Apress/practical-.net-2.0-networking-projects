@@ -1,0 +1,16 @@
+bin\Debug\GrFingerSample.mdb
+bin\Debug\FingerPrintReader.exe
+bin\Debug\FingerPrintReader.pdb
+bin\Debug\FingerPrintReader.xml
+bin\Debug\Interop.GrFingerXLib.dll
+bin\Debug\AxInterop.GrFingerXLib.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.GrFingerXLib.dll
+obj\Debug\AxInterop.GrFingerXLib.dll
+obj\Debug\FingerPrintReader.vbproj.ResolveComReference.cache
+obj\Debug\FingerPrintReader.Form1.resources
+obj\Debug\FingerPrintReader.Resources.resources
+obj\Debug\FingerPrintReader.vbproj.GenerateResource.Cache
+obj\Debug\FingerPrintReader.exe
+obj\Debug\FingerPrintReader.xml
+obj\Debug\FingerPrintReader.pdb

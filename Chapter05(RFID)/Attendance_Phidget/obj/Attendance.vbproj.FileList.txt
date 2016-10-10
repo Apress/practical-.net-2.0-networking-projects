@@ -1,0 +1,13 @@
+bin\Debug\Attendance.exe.config
+bin\Debug\Attendance.exe
+bin\Debug\Attendance.pdb
+bin\Debug\Attendance.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Attendance.Form1.resources
+obj\Debug\Attendance.Resources.resources
+obj\Debug\Attendance.vbproj.GenerateResource.Cache
+obj\Debug\Attendance.exe
+obj\Debug\Attendance.xml
+obj\Debug\Attendance.pdb
+bin\Debug\PhidgetsNET.dll
+obj\Debug\Attendance.Form2.resources

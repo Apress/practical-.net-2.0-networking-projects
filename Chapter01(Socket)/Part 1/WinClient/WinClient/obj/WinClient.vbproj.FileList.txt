@@ -1,0 +1,11 @@
+bin\WinClient.exe.config
+bin\WinClient.exe
+bin\WinClient.pdb
+bin\WinClient.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\WinClient.Form1.resources
+obj\Release\WinClient.MyResources.resources
+obj\Release\WinClient.vbproj.GenerateResource.Cache
+obj\Release\WinClient.exe
+obj\Release\WinClient.xml
+obj\Release\WinClient.pdb

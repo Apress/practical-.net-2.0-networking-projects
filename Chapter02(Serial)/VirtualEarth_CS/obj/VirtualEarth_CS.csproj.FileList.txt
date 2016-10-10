@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\VirtualEarth_CS.Form1.resources
+obj\Debug\VirtualEarth_CS.Properties.Resources.resources
+obj\Debug\VirtualEarth_CS.csproj.GenerateResource.Cache
+bin\Debug\Map.html
+bin\Debug\VirtualEarth_CS.exe
+bin\Debug\VirtualEarth_CS.pdb
+obj\Debug\VirtualEarth_CS.exe
+obj\Debug\VirtualEarth_CS.pdb

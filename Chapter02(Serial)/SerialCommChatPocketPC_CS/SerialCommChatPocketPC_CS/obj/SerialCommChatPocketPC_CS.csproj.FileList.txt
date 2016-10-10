@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SerialCommChatPocketPC_CS.Form1.resources
+obj\Debug\SerialCommChatPocketPC_CS.Properties.Resources.resources
+obj\Debug\SerialCommChatPocketPC_CS.csproj.GenerateResource.Cache
+bin\Debug\SerialCommChatPocketPC_CS.exe
+bin\Debug\SerialCommChatPocketPC_CS.pdb
+obj\Debug\SerialCommChatPocketPC_CS.exe
+obj\Debug\SerialCommChatPocketPC_CS.pdb

@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\IRChat_CS.Form1.resources
+obj\Debug\IRChat_CS.Properties.Resources.resources
+obj\Debug\IRChat_CS.csproj.GenerateResource.Cache
+bin\Debug\IRChat_CS.exe
+bin\Debug\IRChat_CS.pdb
+obj\Debug\IRChat_CS.exe
+obj\Debug\IRChat_CS.pdb

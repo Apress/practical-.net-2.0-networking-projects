@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Attendance_CS.Form1.resources
+obj\Debug\Attendance_CS.Properties.Resources.resources
+obj\Debug\Attendance_CS.csproj.GenerateResource.Cache
+bin\Debug\Attendance_CS.exe
+bin\Debug\Attendance_CS.pdb
+bin\Debug\PhidgetsNET.dll
+obj\Debug\Attendance_CS.exe
+obj\Debug\Attendance_CS.pdb

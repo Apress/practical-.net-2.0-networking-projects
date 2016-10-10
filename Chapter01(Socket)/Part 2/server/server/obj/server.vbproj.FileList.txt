@@ -1,0 +1,10 @@
+bin\server.exe.config
+bin\server.exe
+bin\server.pdb
+bin\server.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\server.MyResources.resources
+obj\Debug\server.vbproj.GenerateResource.Cache
+obj\Debug\server.exe
+obj\Debug\server.xml
+obj\Debug\server.pdb

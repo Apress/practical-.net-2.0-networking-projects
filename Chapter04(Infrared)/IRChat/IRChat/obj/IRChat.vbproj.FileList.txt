@@ -1,0 +1,10 @@
+bin\Debug\IRChat.exe
+bin\Debug\IRChat.pdb
+bin\Debug\IRChat.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\IRChat.Form1.resources
+obj\Debug\IRChat.Resources.resources
+obj\Debug\IRChat.vbproj.GenerateResource.Cache
+obj\Debug\IRChat.exe
+obj\Debug\IRChat.xml
+obj\Debug\IRChat.pdb

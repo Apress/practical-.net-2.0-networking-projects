@@ -1,0 +1,67 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>My Virtual Earth</title>
+    <link href="http://local.live.com/css/MapControl.css" 
+       type="text/css" rel="stylesheet" />
+    <script type="text/javascript" 
+       src="http://dev.virtualearth.net/mapcontrol/v3/mapcontrol.js">
+    </script>
+
+    <script type="text/javascript">
+
+    var map = null;
+    // Update the position of the map in the TextBox controls
+    function updatePosition(e)
+    {
+       window.external.mapPositionChange(e.view.latlong.latitude,e.view.latlong.longitude);
+    }
+    // Go to a particular location on the map
+    function goto_map_position(lat, lng)
+    {
+       map.PanToLatLong(lat, lng);
+    }
+     
+    // Add a push pin to the map 
+    function addPushpin(id, text, Lat, Long) 
+    { 
+       map.AddPushpin(id, Lat, Long, 15, 40, 'pin', '<b>' + text + '</b>', 1); 
+    }
+	
+	// Remove a particular push pin
+    function removePushpin(id) 
+    { 
+       map.RemovePushpin(id); 
+    }
+	
+	// Load the Map
+    function loadMap()
+    {
+       var params = new Object();
+       params.latitude = 38.898748;
+       params.longitude = -77.037684;
+       params.zoomlevel = 12;
+       params.mapstyle = Msn.VE.MapStyle.Road;
+       params.showScaleBar = true;
+       params.showDashboard = true;
+       params.dashboardSize = Msn.VE.DashboardSize.Normal;
+       params.dashboardX = 2;
+       params.dashboardY = 2;
+	
+       container = document.getElementById("VirtualEarthMap");
+       container.style.width = 460;
+       container.style.height = 380;
+            	
+       map = new Msn.VE.MapControl(container, params);
+       map.Init();
+       
+       // Attach the event handlers for the various events
+       map.AttachEvent("onendcontinuouspan", updatePosition);
+       map.AttachEvent("onendzoom", updatePosition);
+       map.AttachEvent("onclick", updatePosition);
+    }
+    </script>
+</head>
+<body onload="loadMap()" style="margin: 0px">
+   <div id="VirtualEarthMap"></div>
+</body>
+</html>

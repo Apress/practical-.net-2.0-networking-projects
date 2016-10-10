@@ -1,0 +1,9 @@
+bin\Debug\Attendance_CS.exe.config
+bin\Debug\Attendance_CS.exe
+bin\Debug\Attendance_CS.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Attendance_CS.Form1.resources
+obj\Debug\Attendance_CS.Properties.Resources.resources
+obj\Debug\Attendance_CS.csproj.GenerateResource.Cache
+obj\Debug\Attendance_CS.exe
+obj\Debug\Attendance_CS.pdb

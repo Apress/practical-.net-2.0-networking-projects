@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SecuritySystem", "SecuritySystem\SecuritySystem.vbproj", "{F03022DD-1D92-41B1-B63A-64BB6A380D3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F03022DD-1D92-41B1-B63A-64BB6A380D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F03022DD-1D92-41B1-B63A-64BB6A380D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F03022DD-1D92-41B1-B63A-64BB6A380D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F03022DD-1D92-41B1-B63A-64BB6A380D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

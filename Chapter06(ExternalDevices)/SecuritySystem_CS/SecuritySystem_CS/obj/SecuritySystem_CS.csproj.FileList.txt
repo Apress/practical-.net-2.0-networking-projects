@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SecuritySystem_CS.Form1.resources
+obj\Debug\SecuritySystem_CS.Properties.Resources.resources
+obj\Debug\SecuritySystem_CS.csproj.GenerateResource.Cache
+bin\Debug\SecuritySystem_CS.exe
+bin\Debug\SecuritySystem_CS.pdb
+obj\Debug\SecuritySystem_CS.exe
+obj\Debug\SecuritySystem_CS.pdb

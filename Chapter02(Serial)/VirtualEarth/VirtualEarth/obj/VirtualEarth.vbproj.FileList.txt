@@ -1,0 +1,12 @@
+bin\Debug\Map.html
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\VirtualEarth.vbproj.GenerateResource.Cache
+bin\Debug\VirtualEarth.exe
+bin\Debug\VirtualEarth.pdb
+bin\Debug\VirtualEarth.xml
+obj\Debug\VirtualEarth.Form1.resources
+obj\Debug\VirtualEarth.Resources.resources
+obj\Debug\VirtualEarth.exe
+obj\Debug\VirtualEarth.xml
+obj\Debug\VirtualEarth.pdb
+bin\Debug\Copy of Map.html
